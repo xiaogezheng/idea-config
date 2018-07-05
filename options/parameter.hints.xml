@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.zyzx.papcore.service.cq.impl.GisMapPapServiceImpl.backageIO(strS,list,map)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

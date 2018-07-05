@@ -1,0 +1,12 @@
+<templateSet group="methodDoc">
+  <template name="*" value="*&#10;* @Author echo_zheng&#10;* @Description: &#10;* @Date $date$ $time$ &#10;* @Param $param$&#10;* @return $return$&#10;* @exception $exception$&#10;*/" description="方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="exception" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
