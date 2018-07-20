@@ -2,9 +2,12 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="E:/DEV/intellij_workspace/jzfp" />
         <option value="E:/DEV/spring" />
         <option value="E:/DEV/demo2" />
-        <option value="E:/DEV/intellij_workspace/jzfp" />
+        <option value="E:/DEV/intellij_workspace/thread" />
+        <option value="$USER_HOME$/Desktop/vip-concurrent" />
+        <option value="E:/DEV/intellij_workspace" />
         <option value="E:/DEV/intellij_workspace/jzfp/pap" />
         <option value="E:/DEV/workspace/jzfp/snscore" />
         <option value="E:/DEV/intellij_workspace/jzfp/fupincore" />
@@ -24,9 +27,20 @@
         <option value="E:/DEV/intellij_workspace/jzfp" />
       </list>
     </option>
-    <option name="lastPath" value="E:/DEV/spring" />
+    <option name="lastPath" value="E:/DEV/intellij_workspace/jzfp" />
     <option name="additionalInfo">
       <map>
+        <entry key="$USER_HOME$/Desktop/vip-concurrent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531188176460" />
+              <option name="buildTimestamp" value="1502780365128" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/IdeaProjects/fupin">
           <value>
             <RecentProjectMetaInfo>
@@ -55,8 +69,8 @@
               <option name="build" value="IU-172.3757.52" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1530755329855" />
-              <option name="buildTimestamp" value="1502780394228" />
+              <option name="projectOpenTimestamp" value="1531901527846" />
+              <option name="buildTimestamp" value="1502780366325" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -66,8 +80,8 @@
               <option name="build" value="IU-172.3757.52" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1523864030905" />
-              <option name="buildTimestamp" value="1502780373347" />
+              <option name="projectOpenTimestamp" value="1531117767634" />
+              <option name="buildTimestamp" value="1502780393969" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -77,8 +91,8 @@
               <option name="build" value="IU-172.3757.52" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1530671502062" />
-              <option name="buildTimestamp" value="1502780394228" />
+              <option name="projectOpenTimestamp" value="1532052868104" />
+              <option name="buildTimestamp" value="1502780356050" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -126,14 +140,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="E:/DEV/intellij_workspace/thread">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531443809895" />
+              <option name="buildTimestamp" value="1502780366852" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="E:/DEV/spring">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-172.3757.52" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1530755366484" />
-              <option name="buildTimestamp" value="1502780394228" />
+              <option name="projectOpenTimestamp" value="1531901596097" />
+              <option name="buildTimestamp" value="1502780366325" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -238,6 +263,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="E:/DEV" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop" />
   </component>
 </application>

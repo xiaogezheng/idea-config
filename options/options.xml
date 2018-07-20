@@ -1,23 +1,23 @@
 <application>
   <component name="PropertiesComponent">
     <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-1" />
-    <property name="android-component-compatibility-check" value="1530261624767" />
+    <property name="android-component-compatibility-check" value="1531910820578" />
     <property name="Default.savedEditorTheme" value="_@user_Default" />
-    <property name="file.chooser.recent.files" value="E:/DEV/intellij_workspace/jzfp/pap/pom.xml&#10;E:/DEV/intellij_workspace/jzfp/pap/src/main/profile/local/config/system.properties&#10;E:/DEV/idea配色主题/Tomorrow Night Grey Plus.jar&#10;E:/DEV/idea配色主题/RecognEyes.jar&#10;E:/DEV/intellij_workspace/jzfp&#10;E:/DEV/intellij_workspace/jzfp/fupin&#10;E:/DEV/workspace/jzfp/fupin&#10;E:/DEV/idea配色主题/Relax Your Eyes.jar&#10;E:/DEV/idea配色主题/Tamacun.jar&#10;E:/DEV/idea配色主题/Solarized Light (Alternate).jar&#10;E:/DEV/idea配色主题/Ladies Night 2.jar&#10;E:/DEV/intellij_workspace/jzfp/fupincore&#10;E:/DEV/intellij_workspace/jzfp/pap&#10;E:/DEV/apache-tomcat-8.0.26&#10;E:/DEV/workspace&#10;E:/DEV/intellij_workspace/jzfp/fupinbusi&#10;E:/DEV/intellij_workspace&#10;E:/DEV/workspace/jzfp/pap&#10;E:/DEV/workspace/jzfp&#10;C:/Program Files/Java/jdk1.7.0_79&#10;E:/DEV/apache-maven-3.3.3-bin/apache-maven-3.3.3&#10;E:/DEV/mavenrepo/settings.xml" />
+    <property name="file.chooser.recent.files" value="E:/DEV/idea配色主题/VSCode Dark%2B.jar&#10;C:/Users/LuYing/Desktop/vip-concurrent&#10;E:/DEV/intellij_workspace/thread&#10;E:/DEV/intellij_workspace&#10;C:/Program Files/Java/jdk1.8.0_60&#10;E:/DEV/intellij_workspace/jzfp/pap/pom.xml&#10;E:/DEV/intellij_workspace/jzfp/pap/src/main/profile/local/config/system.properties&#10;E:/DEV/idea配色主题/Tomorrow Night Grey Plus.jar&#10;E:/DEV/idea配色主题/RecognEyes.jar&#10;E:/DEV/intellij_workspace/jzfp&#10;E:/DEV/intellij_workspace/jzfp/fupin&#10;E:/DEV/workspace/jzfp/fupin&#10;E:/DEV/idea配色主题/Relax Your Eyes.jar&#10;E:/DEV/idea配色主题/Tamacun.jar&#10;E:/DEV/idea配色主题/Solarized Light (Alternate).jar&#10;E:/DEV/idea配色主题/Ladies Night 2.jar&#10;E:/DEV/intellij_workspace/jzfp/fupincore&#10;E:/DEV/intellij_workspace/jzfp/pap&#10;E:/DEV/apache-tomcat-8.0.26&#10;E:/DEV/workspace&#10;E:/DEV/intellij_workspace/jzfp/fupinbusi&#10;E:/DEV/workspace/jzfp/pap&#10;E:/DEV/workspace/jzfp&#10;C:/Program Files/Java/jdk1.7.0_79&#10;E:/DEV/apache-maven-3.3.3-bin/apache-maven-3.3.3&#10;E:/DEV/mavenrepo/settings.xml" />
     <property name="ts.lib.d.ts.version" value="2.4.1" />
     <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="project.wizard.template" value="Maven" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.7" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="lastTip" value="2" />
-    <property name="selected.color.option.type" value="DEFAULT_INVALID_STRING_ESCAPE" />
+    <property name="selected.color.option.type" value="JS.GLOBAL_VARIABLE" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="FileTemplates.SelectedTemplate" value="File Header" />
-    <property name="file.gist.reindex.count" value="94342" />
-    <property name="PLUGIN_FILTER" value="maven help&#10;javadoc&#10;.ignore&#10;myba&#10;my" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="file.gist.reindex.count" value="94383" />
+    <property name="PLUGIN_FILTER" value="findBugs&#10;maven help&#10;javadoc&#10;.ignore&#10;myba" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="last.imported.location" value="E:/DEV/intellij_workspace/jzfp/fupin" />
     <property name="create.project.preferred.importer" value="Maven" />
@@ -27,20 +27,19 @@
     <property name="INSPECTION_FILTER_HISTORY" value="duplicate cod&#10;duplicate&#10;javad&#10;javadoc&#10;spell&#10;spel&#10;datas&#10;sq&#10;seri" />
     <property name="LAST_INJECTED_LANGUAGE" value="GenericSQL" />
     <property name="JUnitSupport.hidePassedTests" value="true" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7575251" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6204013" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="CommittedChanges.SplitterProportions.0" value="700" />
     <property name="CommittedChanges.SplitterProportions.1" value="500" />
     <property name="FrameworksFinderRecursivePanel[0]" value="0.15491867" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
-    <property name="KEYMAP" value="dup&#10;copy&#10;vari&#10;variab&#10;close" />
+    <property name="KEYMAP" value="javad&#10;javaDoc&#10;find&#10;line&#10;rena" />
     <property name="TEMPLATES_FILTER_HISTORY" value="intell&#10;.iml" />
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
     <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7828418" />
-    <property name="ColorChooser.RecentColors" value="216-218-220-255,,,173-175-177-255,,,182-184-186-255,,,115-214-187-255,,,128-165-104-255,,,133-181-199-255,,,255-130-137-255,,,255-49-199-255,,,76-255-116-255,,,96-122-62-255,,,106-122-80-255,,,122-117-22-255,,,164-159-26-255,,,164-112-58-255,,,183-94-94-255,,,199-105-105-255,,,183-15-33-255,,,183-128-142-255,,,236-223-77-255,,,96-109-245-255" />
+    <property name="ColorChooser.RecentColors" value="193-117-76-255,,,207-129-78-255,,,227-142-85-255,,,204-148-94-255,,,197-80-26-255,,,90-204-119-255,,,39-204-89-255,,,35-169-79-255,,,169-111-73-255,,,183-96-47-255,,,228-124-124-255,,,239-131-131-255,,,0-0-190-255,,,0-0-255-255,,,0-108-255-255,,,181-18-210-255,,,155-17-183-255,,,20-183-63-255,,,183-24-124-255,,,238-29-164-255" />
     <property name="JUnit.Splitter.Proportion" value="0.111455105" />
-    <property name="FileTemplates.CurrentTab" value="Includes" />
     <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
     <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
     <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />

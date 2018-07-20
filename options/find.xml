@@ -12,9 +12,9 @@
       <mask>*.</mask>
       <mask>*</mask>
       <mask>*.properties</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.html</mask>
+      <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>

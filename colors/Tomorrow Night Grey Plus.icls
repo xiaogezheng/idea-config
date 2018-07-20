@@ -83,6 +83,12 @@
         <option name="FOREGROUND" value="f0c674" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="e38e55" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="5394ec" />
@@ -258,7 +264,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="cc6666" />
+        <option name="FOREGROUND" value="cc945e" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -422,6 +428,12 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="BACKGROUND" value="52472f" />
+      </value>
+    </option>
+    <option name="ECMAL4.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="e38e55" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
@@ -624,7 +636,7 @@
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cc6666" />
+        <option name="FOREGROUND" value="ef8383" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
