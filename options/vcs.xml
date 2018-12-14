@@ -30,8 +30,12 @@
           <option name="url" value="http://192.168.100.10/fupin/pap.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kulovecc/docker-apollo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\DEV\intellij_workspace\jzfp" />
+    <option name="cloneParentDir" value="E:\新建文件夹\docker-image" />
   </component>
 </application>

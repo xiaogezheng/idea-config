@@ -2,32 +2,28 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="E:/DEV/intellij_workspace/jzfp" />
-        <option value="E:/DEV/spring" />
-        <option value="E:/DEV/demo2" />
-        <option value="E:/DEV/intellij_workspace/thread" />
-        <option value="$USER_HOME$/Desktop/vip-concurrent" />
-        <option value="E:/DEV/intellij_workspace" />
-        <option value="E:/DEV/intellij_workspace/jzfp/pap" />
-        <option value="E:/DEV/workspace/jzfp/snscore" />
-        <option value="E:/DEV/intellij_workspace/jzfp/fupincore" />
-        <option value="E:/DEV/intellij_workspace/jzfp/fupinbusi" />
-        <option value="E:/DEV/workspace/jzfp/fupin" />
-        <option value="E:/DEV/workspace" />
-        <option value="E:/DEV/workspace/jzfp/echarts" />
-        <option value="E:/DEV/intellij_workspace/test" />
-        <option value="E:/DEV/workspace/jzfp/papcore" />
-        <option value="E:/DEV/workspace/jzfp/pap" />
-        <option value="E:/DEV/workspace/jzfp/fupincore" />
-        <option value="E:/DEV/workspace/jzfp/fupinusercore" />
+        <option value="E://upgrade" />
+        <option value="D:/DEV-ZIP/idea_workspace/miaojinfu/miao-gateway" />
+        <option value="D:/DEV-ZIP/idea_workspace/miao-data" />
+        <option value="D:/DEV-ZIP/idea_workspace/miaojinfu/miao-system" />
+        <option value="D:/DEV-ZIP/idea_workspace/eureka-server" />
+        <option value="D:/DEV-ZIP/idea_workspace/miaoyouche-starter-parent" />
+        <option value="D:/DEV-ZIP/idea_workspace/fangyou-18/fangyou-18/fangyou-upgrade" />
+        <option value="D:/DEV-ZIP/idea_workspace/fangyou-18/fangyou-18/op-newhouse" />
+        <option value="D:/DEV-ZIP/idea_workspace/miaojinfu/miao-auth" />
+        <option value="D:/DEV-ZIP/idea_workspace/openapi" />
+        <option value="D:/DEV-ZIP/idea_workspace/fangyou-18/fangyou-18/property-repo" />
+        <option value="E:/apollo-docker" />
+        <option value="D:/DEV-ZIP/idea_workspace/spring-boot-docker" />
+        <option value="D:/DEV-ZIP/idea_workspace/apollo-parent" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="E:/DEV/intellij_workspace/jzfp" />
+        <option value="E://upgrade" />
       </list>
     </option>
-    <option name="lastPath" value="E:/DEV/intellij_workspace/jzfp" />
+    <option name="lastPath" value="E://upgrade" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/Desktop/vip-concurrent">
@@ -60,6 +56,193 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1523857653072" />
               <option name="buildTimestamp" value="1502780378007" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/apollo-1.1.2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543455499609" />
+              <option name="buildTimestamp" value="1502780343000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/apollo-docker">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543300328665" />
+              <option name="buildTimestamp" value="1502780390140" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/idea_workspace/apollo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542959856400" />
+              <option name="buildTimestamp" value="1502780360874" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/idea_workspace/apollo-parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543282773323" />
+              <option name="buildTimestamp" value="1502780360874" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/idea_workspace/eureka-server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544602968572" />
+              <option name="buildTimestamp" value="1502780399559" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/idea_workspace/fangyou-18/fangyou-18/fangyou-upgrade">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543978959935" />
+              <option name="buildTimestamp" value="1502780343970" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/idea_workspace/fangyou-18/fangyou-18/op-newhouse">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543975876257" />
+              <option name="buildTimestamp" value="1502780343970" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/idea_workspace/fangyou-18/fangyou-18/property-repo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543818160069" />
+              <option name="buildTimestamp" value="1502780343970" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/idea_workspace/miao-data">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544679518341" />
+              <option name="buildTimestamp" value="1502780368434" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/idea_workspace/miaojinfu/miao-auth">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543895599040" />
+              <option name="buildTimestamp" value="1502780343970" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/idea_workspace/miaojinfu/miao-gateway">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544770194289" />
+              <option name="buildTimestamp" value="1502780351324" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/idea_workspace/miaojinfu/miao-system">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544679404694" />
+              <option name="buildTimestamp" value="1502780368434" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/idea_workspace/miaoyouche-starter-parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544602776362" />
+              <option name="buildTimestamp" value="1502780399559" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/idea_workspace/openapi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543894905261" />
+              <option name="buildTimestamp" value="1502780343970" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DEV-ZIP/idea_workspace/spring-boot-docker">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543480649282" />
+              <option name="buildTimestamp" value="1502780383648" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E://system">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543979141661" />
+              <option name="buildTimestamp" value="1502780343970" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E://upgrade">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1544771951810" />
+              <option name="buildTimestamp" value="1502780350065" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -261,8 +444,30 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="E:/apollo-docker">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543808844146" />
+              <option name="buildTimestamp" value="1502780343970" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/新建文件夹/docker-image/docker-apollo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3757.52" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543454185437" />
+              <option name="buildTimestamp" value="1502780343000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="$USER_HOME$/Desktop" />
+    <option name="lastProjectLocation" value="E:/" />
   </component>
 </application>

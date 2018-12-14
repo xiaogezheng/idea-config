@@ -1,9 +1,9 @@
 <application>
   <component name="PropertiesComponent">
     <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-1" />
-    <property name="android-component-compatibility-check" value="1531910820578" />
+    <property name="android-component-compatibility-check" value="1544667455536" />
     <property name="Default.savedEditorTheme" value="_@user_Default" />
-    <property name="file.chooser.recent.files" value="E:/DEV/idea配色主题/VSCode Dark%2B.jar&#10;C:/Users/LuYing/Desktop/vip-concurrent&#10;E:/DEV/intellij_workspace/thread&#10;E:/DEV/intellij_workspace&#10;C:/Program Files/Java/jdk1.8.0_60&#10;E:/DEV/intellij_workspace/jzfp/pap/pom.xml&#10;E:/DEV/intellij_workspace/jzfp/pap/src/main/profile/local/config/system.properties&#10;E:/DEV/idea配色主题/Tomorrow Night Grey Plus.jar&#10;E:/DEV/idea配色主题/RecognEyes.jar&#10;E:/DEV/intellij_workspace/jzfp&#10;E:/DEV/intellij_workspace/jzfp/fupin&#10;E:/DEV/workspace/jzfp/fupin&#10;E:/DEV/idea配色主题/Relax Your Eyes.jar&#10;E:/DEV/idea配色主题/Tamacun.jar&#10;E:/DEV/idea配色主题/Solarized Light (Alternate).jar&#10;E:/DEV/idea配色主题/Ladies Night 2.jar&#10;E:/DEV/intellij_workspace/jzfp/fupincore&#10;E:/DEV/intellij_workspace/jzfp/pap&#10;E:/DEV/apache-tomcat-8.0.26&#10;E:/DEV/workspace&#10;E:/DEV/intellij_workspace/jzfp/fupinbusi&#10;E:/DEV/workspace/jzfp/pap&#10;E:/DEV/workspace/jzfp&#10;C:/Program Files/Java/jdk1.7.0_79&#10;E:/DEV/apache-maven-3.3.3-bin/apache-maven-3.3.3&#10;E:/DEV/mavenrepo/settings.xml" />
+    <property name="file.chooser.recent.files" value="D:/DEV-ZIP/idea_workspace/fangyou-18/fangyou-18/fangyou-upgrade&#10;D:/DEV-ZIP/idea_workspace/fangyou-18/fangyou-18/op-newhouse&#10;D:/DEV-ZIP/idea_workspace/miaojinfu/miao-system&#10;D:/DEV-ZIP/idea_workspace/miao-data&#10;D:/DEV-ZIP/idea_workspace/miaojinfu/miao-auth&#10;E:/新建文件夹/docker-image&#10;E:/apollo-docker&#10;D:/DEV-ZIP/apollo-docker&#10;D:/DEV-ZIP/apollo-1.1.2&#10;D:/DEV-ZIP/idea_workspace/apollo&#10;D:/DEV-ZIP/idea_workspace/miaojinfu/miao-gateway&#10;D:/DEV-ZIP/idea_workspace/fangyou-18/fangyou-18/property-repo&#10;D:/DEV-ZIP/idea_workspace/miaoyouche-starter-parent&#10;D:/Downloads/Retta.jar&#10;D:/DEV-ZIP/idea_workspace/eureka-server&#10;D:/DEV-ZIP/idea_workspace/openapi&#10;D:/DEV-ZIP/idea_workspace/openapi/pom.xml&#10;D:/DEV-ZIP/maven-repo&#10;D:/DEV-ZIP/maven-repo/settings.xml&#10;D:/DEV-ZIP/apache-maven-3.2.3&#10;C:/Program Files/Java/jdk1.8.0_152&#10;E:/DEV/idea配色主题/VSCode Dark%2B.jar&#10;C:/Users/LuYing/Desktop/vip-concurrent&#10;E:/DEV/intellij_workspace/thread&#10;E:/DEV/intellij_workspace&#10;C:/Program Files/Java/jdk1.8.0_60&#10;E:/DEV/intellij_workspace/jzfp/pap/pom.xml&#10;E:/DEV/intellij_workspace/jzfp/pap/src/main/profile/local/config/system.properties&#10;E:/DEV/idea配色主题/Tomorrow Night Grey Plus.jar&#10;E:/DEV/idea配色主题/RecognEyes.jar" />
     <property name="ts.lib.d.ts.version" value="2.4.1" />
     <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="project.wizard.template" value="Maven" />
@@ -12,40 +12,46 @@
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="lastTip" value="2" />
-    <property name="selected.color.option.type" value="JS.GLOBAL_VARIABLE" />
+    <property name="selected.color.option.type" value="IDENTIFIER_UNDER_CARET_ATTRIBUTES" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="FileTemplates.SelectedTemplate" value="HTML File" />
-    <property name="file.gist.reindex.count" value="94383" />
-    <property name="PLUGIN_FILTER" value="findBugs&#10;maven help&#10;javadoc&#10;.ignore&#10;myba" />
+    <property name="file.gist.reindex.count" value="98272" />
+    <property name="PLUGIN_FILTER" value="lombok&#10;findBugs&#10;maven help&#10;javadoc&#10;.ignore" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="last.imported.location" value="E:/DEV/intellij_workspace/jzfp/fupin" />
+    <property name="last.imported.location" value="D:/DEV-ZIP/idea_workspace/miao-data" />
     <property name="create.project.preferred.importer" value="Maven" />
     <property name="param.hints.settings.last.edited.language" value="JAVA" />
-    <property name="fileTypeChangedCounter" value="4" />
+    <property name="fileTypeChangedCounter" value="5" />
     <property name="decompiler.legal.notice.accepted" value="true" />
-    <property name="INSPECTION_FILTER_HISTORY" value="duplicate cod&#10;duplicate&#10;javad&#10;javadoc&#10;spell&#10;spel&#10;datas&#10;sq&#10;seri" />
+    <property name="INSPECTION_FILTER_HISTORY" value="auto&#10;field&#10;sq&#10;sql&#10;duplicate cod&#10;duplicate&#10;javad&#10;javadoc&#10;spell&#10;spel" />
     <property name="LAST_INJECTED_LANGUAGE" value="GenericSQL" />
     <property name="JUnitSupport.hidePassedTests" value="true" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6204013" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.71536523" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="CommittedChanges.SplitterProportions.0" value="700" />
     <property name="CommittedChanges.SplitterProportions.1" value="500" />
     <property name="FrameworksFinderRecursivePanel[0]" value="0.15491867" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
-    <property name="KEYMAP" value="javad&#10;javaDoc&#10;find&#10;line&#10;rena" />
+    <property name="KEYMAP" value="case&#10;impl&#10;javad&#10;javaDoc&#10;find" />
     <property name="TEMPLATES_FILTER_HISTORY" value="intell&#10;.iml" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Paths" />
     <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7828418" />
-    <property name="ColorChooser.RecentColors" value="193-117-76-255,,,207-129-78-255,,,227-142-85-255,,,204-148-94-255,,,197-80-26-255,,,90-204-119-255,,,39-204-89-255,,,35-169-79-255,,,169-111-73-255,,,183-96-47-255,,,228-124-124-255,,,239-131-131-255,,,0-0-190-255,,,0-0-255-255,,,0-108-255-255,,,181-18-210-255,,,155-17-183-255,,,20-183-63-255,,,183-24-124-255,,,238-29-164-255" />
+    <property name="ColorChooser.RecentColors" value="227-142-85-255,,,204-148-94-255,,,197-80-26-255,,,90-204-119-255,,,39-204-89-255,,,35-169-79-255,,,169-111-73-255,,,183-96-47-255,,,228-124-124-255,,,239-131-131-255,,,0-0-190-255,,,0-0-255-255,,,0-108-255-255,,,181-18-210-255,,,155-17-183-255,,,20-183-63-255,,,183-24-124-255,,,238-29-164-255,,,156-60-65-255,,,227-240-243-255" />
     <property name="JUnit.Splitter.Proportion" value="0.111455105" />
     <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
     <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
     <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
     <property name="SpringBeansModulesPanel[0]" value="0.15467905" />
     <property name="MavenHelper.lastRadioButton" value="list" />
-    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
     <property name="vcs.log.changes.splitter.proportion" value="0.7995461" />
+    <property name="LiveContextsPanel[0]" value="0.110192835" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="LiveContextsPanel[1]" value="0.12391574" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="search.everywhere.max.popup.width" value="640" />
   </component>
 </application>

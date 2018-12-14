@@ -66,6 +66,50 @@
     <location key="git4idea.merge.GitMergeDialog.0.0.1366.768" x="458" y="147" />
     <location key="Maven.ArtifactSearchDialog.0.0.1366.768" x="213" y="12" />
     <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1366.768" x="417" y="5" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="1265" y="201" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="600" y="70" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="437" />
+    <location key="SettingsEditor.0.0.1920.1080" x="848" y="322" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="879" y="849" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="704" y="382" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="726" y="395" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="388" y="130" />
+    <location key="find.popup.0.0.1920.1080" x="587" y="75" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="465" y="85" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="636" y="239" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="692" y="216" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="371" y="153" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080" x="647" y="363" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" x="509" y="244" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="690" y="268" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="694" y="308" />
+    <location key="new project wizard.0.0.1920.1080" x="585" y="222" />
+    <location key="#xdebugger.evaluate.0.0.1920.1080" x="1286" y="350" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="765" y="199" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.0.0.1920.1080" x="731" y="321" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="690" y="259" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.0.1920.1080" x="778" y="371" />
+    <location key="git4idea.rebase.GitRebaseEditor.0.0.1920.1080" x="701" y="258" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="689" y="323" />
+    <location key="EditParametersPopupWindow.0.0.1920.1080" x="789" y="392" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1920.1080" x="453" y="447" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="694" y="421" />
+    <location key="VCS.ChangelistChooser.0.0.1920.1080" x="806" y="422" />
+    <location key="MergeDialog.0.0.1920.1080" x="172" y="52" />
+    <location key="MultipleFileMergeDialog.0.0.1920.1080" x="655" y="242" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" x="791" y="383" />
+    <location key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.0.0.1920.1080" x="1276" y="174" />
+    <location key="DiffContextDialog.0.0.1920.1080" x="177" y="65" />
+    <location key="#Application_(1).0.0.1920.1080" x="616" y="60" />
+    <location key="#Application_(2).0.0.1920.1080" x="616" y="60" />
+    <location key="#Application.0.0.1920.1080" x="616" y="60" />
+    <location key="#Intentions.0.0.1920.1080" x="552" y="171" />
+    <location key="extract.method.dialog.0.0.1920.1080" x="690" y="291" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080" x="689" y="429" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.1920.1080" x="734" y="392" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1080" x="338" y="0" />
+    <location key="#BuildArtifactsBeforeRunChooser.0.0.1920.1080" x="714" y="312" />
+    <location key="#com.intellij.debugger.actions.ViewTextAction.0.0.1920.1080" x="1433" y="463" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="244" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="244" />
     <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="244" />
@@ -96,5 +140,27 @@
     <size key="bookmarks.0.0.1366.768" width="738" height="344" />
     <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" width="694" height="728" />
     <size key="git4idea.merge.GitMergeDialog.0.0.1366.768" width="615" height="433" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="450" height="505" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="197" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="306" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="306" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="306" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="306" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="306" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="306" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="306" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1876" height="306" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1876" height="306" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1876" height="306" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1876" height="306" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1876" height="306" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1092" height="769" />
+    <size key="find.popup.0.0.1920.1080" width="871" height="657" />
+    <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" width="901" height="604" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="1088" height="645" />
+    <size key="HiddenNamespacesPopup.0.0.1920.1080" width="222" height="469" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" width="523" height="668" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="1013" height="924" />
+    <size key="#xdebugger.evaluate.0.0.1920.1080" width="634" height="531" />
   </component>
 </application>

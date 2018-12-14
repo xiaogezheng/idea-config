@@ -1,0 +1,5 @@
+FindBugs-IDEA
+MavenRunHelper
+com.ccnode.codegenerator.mybatis.generator
+com.github.setial
+mobi.hsz.idea.gitignore

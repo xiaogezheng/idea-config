@@ -1,6 +1,9 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="CodeInsightWorkspaceSettings">
+        <option name="optimizeImportsOnTheFly" value="true" />
+      </component>
       <component name="InspectionProjectProfileManager">
         <profile version="1.0">
           <option name="myName" value="Project Default" />
@@ -9,14 +12,16 @@
             <option name="processLiterals" value="true" />
             <option name="processComments" value="true" />
           </inspection_tool>
+          <inspection_tool class="SqlDialectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
         </profile>
         <version value="1.0" />
       </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="E:/DEV/apache-maven-3.3.3-bin/apache-maven-3.3.3" />
-            <option name="userSettingsFile" value="E:\DEV\mavenrepo\settings.xml" />
+            <option name="mavenHome" value="D:/DEV-ZIP/apache-maven-3.2.3" />
+            <option name="userSettingsFile" value="D:\DEV-ZIP\maven-repo\settings.xml" />
           </MavenGeneralSettings>
         </option>
       </component>
@@ -46,6 +51,9 @@
                 <id>Android &gt; Lint &gt; Correctness</id>
               </State>
               <State>
+                <id>Android &gt; Lint &gt; Correctness &gt; Chrome OS</id>
+              </State>
+              <State>
                 <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
               </State>
               <State>
@@ -53,6 +61,12 @@
               </State>
               <State>
                 <id>Android &gt; Lint &gt; Internationalization &gt; Bidirectional Text</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Lint</id>
+              </State>
+              <State>
+                <id>Android &gt; Lint &gt; Performance</id>
               </State>
               <State>
                 <id>Android &gt; Lint &gt; Security</id>
@@ -70,6 +84,9 @@
                 <id>Android Lint for Kotlin</id>
               </State>
               <State>
+                <id>AngularJS</id>
+              </State>
+              <State>
                 <id>Annotations verifyingGroovy</id>
               </State>
               <State>
@@ -79,7 +96,31 @@
                 <id>Application Server Specific Inspections</id>
               </State>
               <State>
+                <id>ArquillianJava</id>
+              </State>
+              <State>
+                <id>Assignment issuesGroovy</id>
+              </State>
+              <State>
+                <id>Assignment issuesJava</id>
+              </State>
+              <State>
+                <id>Assignment issuesJavaScript</id>
+              </State>
+              <State>
+                <id>BPMN 2.0 configuration errors</id>
+              </State>
+              <State>
+                <id>Batch Applications Issues</id>
+              </State>
+              <State>
                 <id>Bean Validation issues</id>
+              </State>
+              <State>
+                <id>Bitwise operation issuesJava</id>
+              </State>
+              <State>
+                <id>Bitwise operation issuesJavaScript</id>
               </State>
               <State>
                 <id>CDI(Contexts and Dependency Injection) issues</id>
@@ -95,6 +136,9 @@
               </State>
               <State>
                 <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Cloning issuesJava</id>
               </State>
               <State>
                 <id>Code maturity issuesJava</id>
@@ -118,6 +162,15 @@
                 <id>CodeSpring CoreSpring</id>
               </State>
               <State>
+                <id>CoffeeScript</id>
+              </State>
+              <State>
+                <id>Compiler issuesJava</id>
+              </State>
+              <State>
+                <id>Concurrency annotation issuesJava</id>
+              </State>
+              <State>
                 <id>Control FlowGroovy</id>
               </State>
               <State>
@@ -127,22 +180,64 @@
                 <id>Control flow issuesJavaScript</id>
               </State>
               <State>
+                <id>CorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>Cucumber</id>
+              </State>
+              <State>
+                <id>Cucumber Java</id>
+              </State>
+              <State>
+                <id>DOM issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Data flow issuesGroovy</id>
+              </State>
+              <State>
+                <id>Data flow issuesJava</id>
+              </State>
+              <State>
+                <id>Data flow issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Declaration redundancyGroovy</id>
+              </State>
+              <State>
                 <id>Declaration redundancyJava</id>
+              </State>
+              <State>
+                <id>DeclarationGroovy</id>
               </State>
               <State>
                 <id>Dependency issuesJava</id>
               </State>
               <State>
+                <id>ECMAScript 6 migration aidsJavaScript</id>
+              </State>
+              <State>
                 <id>Encapsulation issuesJava</id>
+              </State>
+              <State>
+                <id>Error handlingGroovy</id>
               </State>
               <State>
                 <id>Error handlingJava</id>
               </State>
               <State>
+                <id>Error handlingJavaScript</id>
+              </State>
+              <State>
                 <id>Faces Model</id>
               </State>
               <State>
+                <id>Finalization issuesJava</id>
+              </State>
+              <State>
                 <id>FlexUnit inspections</id>
+              </State>
+              <State>
+                <id>Flow type checkerJavaScript</id>
               </State>
               <State>
                 <id>FreeMarker inspections</id>
@@ -157,7 +252,22 @@
                 <id>General</id>
               </State>
               <State>
+                <id>GeneralCoffeeScript</id>
+              </State>
+              <State>
+                <id>GeneralJava</id>
+              </State>
+              <State>
                 <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>Google App Engine</id>
+              </State>
+              <State>
+                <id>Google Web Toolkit issues</id>
+              </State>
+              <State>
+                <id>Gradle</id>
               </State>
               <State>
                 <id>GrailsGroovy</id>
@@ -170,6 +280,12 @@
               </State>
               <State>
                 <id>HTML</id>
+              </State>
+              <State>
+                <id>Haml</id>
+              </State>
+              <State>
+                <id>Hibernate Issues</id>
               </State>
               <State>
                 <id>Ignore</id>
@@ -188,6 +304,12 @@
               </State>
               <State>
                 <id>Internationalization issuesJava</id>
+              </State>
+              <State>
+                <id>Invalid elementsCSS</id>
+              </State>
+              <State>
+                <id>J2ME SupportJava</id>
               </State>
               <State>
                 <id>J2ME issuesJava</id>
@@ -217,16 +339,31 @@
                 <id>Java 5Java language level migration aidsJava</id>
               </State>
               <State>
+                <id>Java 7Java language level migration aidsJava</id>
+              </State>
+              <State>
                 <id>Java 8Java language level migration aidsJava</id>
               </State>
               <State>
+                <id>Java 9Java language level migration aidsJava</id>
+              </State>
+              <State>
                 <id>Java EE issues</id>
+              </State>
+              <State>
+                <id>Java interop issuesKotlin</id>
+              </State>
+              <State>
+                <id>Java language level issuesJava</id>
               </State>
               <State>
                 <id>Java language level migration aidsJava</id>
               </State>
               <State>
                 <id>JavaBeans issuesJava</id>
+              </State>
+              <State>
+                <id>JavaFX</id>
               </State>
               <State>
                 <id>JavaScript</id>
@@ -238,7 +375,22 @@
                 <id>JavaScript validity issuesJavaScript</id>
               </State>
               <State>
+                <id>Javadoc issuesJava</id>
+              </State>
+              <State>
+                <id>Jpdl Model</id>
+              </State>
+              <State>
                 <id>Kotlin</id>
+              </State>
+              <State>
+                <id>Language Injection</id>
+              </State>
+              <State>
+                <id>Less</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
               </State>
               <State>
                 <id>Logging issuesJava</id>
@@ -248,6 +400,9 @@
               </State>
               <State>
                 <id>Maven</id>
+              </State>
+              <State>
+                <id>Memory issuesJava</id>
               </State>
               <State>
                 <id>Method MetricsGroovy</id>
@@ -271,13 +426,28 @@
                 <id>Numeric issuesJava</id>
               </State>
               <State>
+                <id>OSGi</id>
+              </State>
+              <State>
+                <id>Other problemsKotlin</id>
+              </State>
+              <State>
                 <id>OtherGroovy</id>
               </State>
               <State>
                 <id>Packaging issuesJava</id>
               </State>
               <State>
+                <id>Pages Navigation Model</id>
+              </State>
+              <State>
+                <id>Pattern Validation</id>
+              </State>
+              <State>
                 <id>Performance issuesJava</id>
+              </State>
+              <State>
+                <id>Play</id>
               </State>
               <State>
                 <id>Plugin DevKit</id>
@@ -292,7 +462,16 @@
                 <id>Potentially confusing code constructsJavaScript</id>
               </State>
               <State>
+                <id>Probable bugs</id>
+              </State>
+              <State>
                 <id>Probable bugsCSS</id>
+              </State>
+              <State>
+                <id>Probable bugsCoffeeScript</id>
+              </State>
+              <State>
+                <id>Probable bugsGradle</id>
               </State>
               <State>
                 <id>Probable bugsGroovy</id>
@@ -308,6 +487,12 @@
               </State>
               <State>
                 <id>Properties Files</id>
+              </State>
+              <State>
+                <id>Properties FilesJava</id>
+              </State>
+              <State>
+                <id>RELAX NG</id>
               </State>
               <State>
                 <id>RESTful Web Service</id>
@@ -328,7 +513,16 @@
                 <id>SQL</id>
               </State>
               <State>
+                <id>Sass/SCSS</id>
+              </State>
+              <State>
+                <id>Security issuesJava</id>
+              </State>
+              <State>
                 <id>Serialization issuesJava</id>
+              </State>
+              <State>
+                <id>SetupSpring CoreSpring</id>
               </State>
               <State>
                 <id>Spelling</id>
@@ -340,7 +534,52 @@
                 <id>Spring AOPSpring</id>
               </State>
               <State>
+                <id>Spring BatchSpring</id>
+              </State>
+              <State>
+                <id>Spring BootSpring</id>
+              </State>
+              <State>
                 <id>Spring CoreSpring</id>
+              </State>
+              <State>
+                <id>Spring DataSpring</id>
+              </State>
+              <State>
+                <id>Spring IntegrationSpring</id>
+              </State>
+              <State>
+                <id>Spring MVCSpring</id>
+              </State>
+              <State>
+                <id>Spring OSGiSpring</id>
+              </State>
+              <State>
+                <id>Spring SecuritySpring</id>
+              </State>
+              <State>
+                <id>Spring Web FlowSpring</id>
+              </State>
+              <State>
+                <id>Spring Web ServicesSpring</id>
+              </State>
+              <State>
+                <id>Spring WebSocketSpring</id>
+              </State>
+              <State>
+                <id>Struts</id>
+              </State>
+              <State>
+                <id>Struts 1Struts</id>
+              </State>
+              <State>
+                <id>Struts 2Struts</id>
+              </State>
+              <State>
+                <id>Style issuesKotlin</id>
+              </State>
+              <State>
+                <id>StyleGroovy</id>
               </State>
               <State>
                 <id>Tapestry</id>
@@ -355,10 +594,40 @@
                 <id>Threading issuesJava</id>
               </State>
               <State>
+                <id>Thymeleaf</id>
+              </State>
+              <State>
+                <id>TypeScript</id>
+              </State>
+              <State>
+                <id>UI Form Problems</id>
+              </State>
+              <State>
+                <id>Validity issuesGroovy</id>
+              </State>
+              <State>
                 <id>Velocity inspections</id>
               </State>
               <State>
+                <id>Verbose or redundant code constructsJava</id>
+              </State>
+              <State>
+                <id>Visibility issuesJava</id>
+              </State>
+              <State>
+                <id>WSDL issues</id>
+              </State>
+              <State>
+                <id>Web Services</id>
+              </State>
+              <State>
+                <id>WebSocket issues</id>
+              </State>
+              <State>
                 <id>XML</id>
+              </State>
+              <State>
+                <id>XMLSpring CoreSpring</id>
               </State>
               <State>
                 <id>XPath</id>
@@ -366,17 +635,21 @@
               <State>
                 <id>XSLT</id>
               </State>
+              <State>
+                <id>toString() issuesJava</id>
+              </State>
             </expanded-state>
             <selected-state>
               <State>
-                <id>SpellCheckingInspection</id>
+                <id>SqlDialectInspection</id>
               </State>
             </selected-state>
           </profile-state>
         </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+        <property name="settings.editor.selected.configurable" value="Errors" />
+        <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
@@ -385,7 +658,7 @@
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.7</last-edited>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

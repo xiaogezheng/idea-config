@@ -1,4 +1,9 @@
 <application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Program Files/nodejs/node.exe">
+      <npm-package value="D:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
